@@ -3,7 +3,7 @@ Type: Package
 Title: JIRA Rest API interface 
 Version: 1.0
 Date: 2015-12-05
-Author: Alfonso de Uña
+Author: Alfonso de Una
 Maintainer: Joe Developer <Joe.Developer@some.domain.net>
 Description: Simple connection way to JIRA
 License: GPU
